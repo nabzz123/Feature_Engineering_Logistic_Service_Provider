@@ -49,6 +49,6 @@ The logistics service provider handles large volumes of shipment data that conta
 
 -   notebook.ipynb – Feature engineering workflow
 
--    data/ – Raw and processed datasets
+-    data/ – Raw Dataset
 
 -    figures/ – Feature analysis visualizations
